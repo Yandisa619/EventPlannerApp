@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+customtkinter = "*"
+bcrypt = "*"
+email-validator = "*"
+matplotlib = "*"
+kiwisolver = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
