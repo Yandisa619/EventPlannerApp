@@ -714,5 +714,3 @@ class CreateEventFrame(ctk.CTkFrame):
 if __name__ == "__main__":
     app = EventPlannerApp()
     app.mainloop()
-
-
